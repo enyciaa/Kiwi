@@ -1,8 +1,11 @@
+Need to understand more about kotlin native to make a library in kotlin work
+
 # Kiwi
 A pure Kotlin library with common code that can be used across projects
 
 ## Warning
 This a personal library, and is not intended to be used by others. The Api may change at anytime.
+Doesn't currently work. 
 
 ## Animations
 A collection of entities and functions that make dealing animations simpler
