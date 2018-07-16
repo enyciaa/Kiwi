@@ -1,4 +1,4 @@
-Need to understand more about kotlin native to make a library in kotlin work
+Need to understand more about kotlin native and multiplatform projects to make a library in kotlin work
 
 # Kiwi
 A pure Kotlin library with common code that can be used across projects
